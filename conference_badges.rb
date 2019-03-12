@@ -18,7 +18,7 @@ def assign_rooms(array)
   arr = []
   counter = 1
   array.each do |name|
-    arr <<
+    arr << ""
 
   assign_rooms
 end
