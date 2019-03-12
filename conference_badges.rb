@@ -8,7 +8,7 @@ end
 def batch_badge_creator(array)
   arr = []
   array.each do |name|
-    arr << 
+    arr << "Hello, my name is #{name}."
   
 end
 
